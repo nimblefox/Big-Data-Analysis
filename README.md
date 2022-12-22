@@ -6,4 +6,21 @@
 4. I used a Apache PIG script to calculate and load data to "risk factor" table
 5. Then I came  up with 2 business questions and tried to answer them
 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide1.PNG" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105288/28698fae-63ae-11e5-8ba7-a62360a8e8a7.png" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide1.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide2.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide3.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide4.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide5.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide6.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide7.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide8.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide9.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide10.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide11.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide12.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide13.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide14.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide15.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide16.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide17.PNG" width=90%"></img> 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide18.PNG" width=90%"></img>  
