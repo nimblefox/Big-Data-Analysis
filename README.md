@@ -7,20 +7,4 @@
 5. Then I came  up with 2 business questions and tried to answer them
 
 <img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide1.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide2.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide3.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide4.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide5.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide6.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide7.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide8.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide9.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide10.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide11.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide12.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide13.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide14.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide15.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide16.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide17.PNG" width=90%"></img> 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide18.PNG" width=90%"></img>  
+
