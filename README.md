@@ -6,7 +6,7 @@
 4. I used a Apache PIG script to calculate and load data to "risk factor" table
 5. Then I came  up with 2 business questions and tried to answer them
 
-<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide1.PNG" width="90%"></img> <img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide2.PNG" width="90%"></img> <img 
+<img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide.PNG" width="90%"></img> <img src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide2.PNG" width="90%"></img> <img 
 src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide3.PNG" width="90%"></img> <img 
 src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide4.PNG" width="90%"></img> <img 
 src="https://github.com/nimblefox/Big-Data-Analysis/blob/main/Presentation/Slide5.PNG" width="90%"></img> <img 
